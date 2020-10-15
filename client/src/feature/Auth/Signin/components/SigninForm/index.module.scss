@@ -1,0 +1,26 @@
+.singupLinks {
+    text-align: center;
+}
+
+.authHeader {
+    text-align: center;
+}
+
+.forgotPassword {
+    text-align: center;
+    text-decoration: underline;
+    font-size: small;
+}
+
+.card {
+    background-color:white;
+    border-radius: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    height: 499px;
+    padding: 1em;
+    position: absolute;
+    margin-top: 78px;
+    left: 100%;
+    margin-left: 20px;
+    transform: translate(-100%, -100%); 
+}

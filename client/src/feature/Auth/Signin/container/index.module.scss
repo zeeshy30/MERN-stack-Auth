@@ -1,0 +1,13 @@
+.signinFormWrapper {
+    background-color:white;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    margin-top: 100%;
+    left: 50%;
+    margin-right: -50%;
+    width:  800px;
+    height: 500px;
+    transform: translate(-50%, -50%); 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
